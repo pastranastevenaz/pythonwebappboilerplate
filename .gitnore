@@ -1,0 +1,5 @@
+*.pyc
+*.pyo
+webapp.db
+search.db
+webappenv
